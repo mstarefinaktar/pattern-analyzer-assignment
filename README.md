@@ -4,6 +4,8 @@
 
 This project was developed as part of a screening assignment for a Test Engineering role. It showcases a tool written in C++ to process and evaluate ATE-style test pattern files, producing rule-checked logs.
 
+C++ tool to process ATE-style test patterns, developed as part of an assignment from a Taiwan-based semiconductor company (https://recynergy.com/) Includes rule checking, log generation, and structured output.
+
 ## 🧾 Assignment Summary
 
 The assignment was to:
